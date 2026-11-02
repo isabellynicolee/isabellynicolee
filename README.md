@@ -2,7 +2,7 @@
 
 🔎 Estou em busca de oportunidades para contribuir, aprender com profissionais experientes e crescer na área de TI.
 
-# Tenho interesse em:
+## Tenho interesse em:
 
 - 🎨 UX/UI Design
 - 🖥️ Desenvolvimento front-end
